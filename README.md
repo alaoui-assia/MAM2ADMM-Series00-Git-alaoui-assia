@@ -11,3 +11,5 @@ As a Master's student in digital health, I want to master Python, R, and Git to 
 These tools are key to biomedical engineering projects and will help me tackle real challenges in research and industry.  
 Learning them is also a way to prepare myself for the internship I need to find, even if the process feels stressful. 
 And sir, if you are actually reading this… do you have an internship to offer me?
+# Local image test
+![Test Image](images/test.jpg)

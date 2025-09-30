@@ -13,3 +13,9 @@ Learning them is also a way to prepare myself for the internship I need to find,
 And sir, if you are actually reading this… do you have an internship to offer me?
 # Local image test
 ![Test Image](images/test.JPG)
+# Summary
+From this assignment, I learned the basics of version control with Git and GitHub.  
+I understood how to create a repository, work in branches, and commit changes.  
+I practiced pushing changes to a remote repository and organizing files properly.  
+I also learned how to edit and improve a README using Markdown syntax, including adding images.  
+**Conclusion:** It took me about 1 hour and 30 minutes to complete this work.  

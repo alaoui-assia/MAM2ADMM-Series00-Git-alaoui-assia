@@ -5,5 +5,4 @@ This repository is created to learn-by-doing the basics of Git and GitHub.
 Until now, my experience with version control has been almost non-existent, but I am eager to improve.  
 I look forward to learning how these tools can help me organize projects, collaborate more effectively, and ensure the reproducibility of my work.
 ## Visual
-Here is an example image:
 ![Icon](https://www.cinemas-utopia.org/admin/films_img/img98/9804.jpeg "Icon")
